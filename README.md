@@ -6,4 +6,4 @@ If A is a positive definite Hermitian matrix, Cholesky decomposition factorises 
 Every symmetric positive definite matrix A can be decomposed into a product of a unique lower triangular matrix L and its transpose.
 
 In a software implementation the upper triangular matrix is preferred as operations are row-wise and compatible with C programming language. 
-Cholesky decomposition is of order O(n^3) and reguires (n^3)/6 operations. Mtarix invrsion based on Cholesky decomposition in numerically stable for well conditioned matrices. 
+Cholesky decomposition is of order O(n^3) and reguires (n^3)/6 operations. Mtarix inversion based on Cholesky decomposition in numerically stable for well conditioned matrices. 
