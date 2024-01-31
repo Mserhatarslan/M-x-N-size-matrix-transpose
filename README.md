@@ -28,14 +28,15 @@ Upper triangular elements i.e i < j
 
 
 Mathematical Description of the Algorithm ; 
-#Input data: a symmetric positive definite matrix A whose elements are denoted by aij).
+ Input data: a symmetric positive definite matrix A whose elements are denoted by aij).
 
-#Output data: the lower triangular matrix L whose elements are denoted by lij).
+ Output data: the lower triangular matrix L whose elements are denoted by lij).
 
 The Cholesky algorithm can be represented in the form
+
 ![image](https://github.com/Mserhatarslan/M-x-N-size-matrix-transpose/assets/63358327/fc6ef71b-c503-4649-aff3-0ebd69f10322)
 
-Pseudo Code of Cholesky Decomposition : 
+# Pseudo Code of Cholesky Decomposition : 
 
 
 procedure CholeskyFactorization(dim: uint16_t, A: float[], L: float[])
