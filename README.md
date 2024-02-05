@@ -1,7 +1,7 @@
 # Matrix Inversion Using Cholesky Decomposition Method
 
 Matrix inversion techniques based on Cholesky decomposition and the related LDL decomposition are efficient techniques widely used for inversion of positive definite/symmetrich matrices across multiple fiedls.
-If A is a positive definite Hermitian matrix, Cholesky decomposition factorises it into a lower triangular matrix and its conjugate transpose. 
+If A is a positive definite Hermitian matrix, Cholesky decomposition factorises it into a lower triangular matrix and its conjugate transpose. Which is useful for efficient numerical solutions.  
 
  ![image](https://github.com/Mserhatarslan/M-x-N-size-matrix-transpose/assets/63358327/be170024-c0ba-41a7-ab01-ad6259517693)
 
