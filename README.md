@@ -38,6 +38,7 @@ The Cholesky algorithm can be represented in the form
 
 # Pseudo Code of Cholesky Decomposition : 
 
+```C++
 
 procedure CholeskyFactorization(dim: uint16_t, A: float[], L: float[])
 
@@ -56,4 +57,5 @@ procedure CholeskyFactorization(dim: uint16_t, A: float[], L: float[])
         end for
     end for
 end procedure
+```
 
